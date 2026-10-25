@@ -37,18 +37,6 @@ J’offre mon **attention au détail**, mon **assiduité** et ma facilité à **
 <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
-## Projets
-
-| Projet                                                                                                 | Contexte                                | Technologies                                                                                       |
-| :----------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------------------------------------------------------------------------------------------------- |
-| **Niveau de jeu d’évasion** <br> Pyramide égyptienne, énigmes programmées en Blueprints                | Projet scolaire · 2025                  | Unreal Engine, Blueprints, Blender · [Code source](https://github.com/guidscal/Niveau-Jeu-Evasion) |
-| **WebJam : un site complet en 36 h** <br> Intégration HTML/CSS/JS, WordPress et PHP, en équipe de cinq | 🏆 Gagnant, compétition scolaire · 2025 | HTML, CSS, JavaScript, PHP, WordPress, Figma                                                       |
-| **Traducteur de symboles en réalité augmentée** <br> Application multimédia                            | Contrat pour La Clef de l’Énigme · 2025 | Unity, C#, Blender                                                                                 |
-| **Site web pour Le Nid Bleu** <br> Site d’un OBNL au service des adultes TSA                           | Contrat · 2026                          | HTML, CSS, JavaScript, PHP, WordPress, Figma                                                       |
-| **Jeu sur Unreal avec des bâtiments d’autres étudiants** <br> Intégration et optimisation de ceux-ci   | Projet scolaire · 2025                  | Unreal Engine, Blender                                                                             |
-
-Tous les détails, étape par étape, sont sur [mon portfolio](https://guillaumecallebert.dev/aboutme#projectlist).
-
 ## Habiletés
 
 - Programmation **nodale** optimisée et gestion du niveau **back-end**
